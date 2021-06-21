@@ -65,6 +65,7 @@ pip install -r requirements.txt
 make clean install test                # install and test
 ```
 Functionnal test with a script:
+teste
 
 ```bash
 cd
